@@ -1,7 +1,6 @@
 {
-  "url": "https://github.com/elves/tree-sitter-elvish",
   "lang": "elvish",
-  "parser_version": "5e7210d945425b77f82cbaebc5af4dd3e1ad40f5",
-  "location": null,
-  "semver": false
+  "url": "https://github.com/elves/tree-sitter-elvish",
+  "semver": false,
+  "parser_version": "5e7210d945425b77f82cbaebc5af4dd3e1ad40f5"
 }
